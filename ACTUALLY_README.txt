@@ -1,0 +1,1 @@
+If you are copying the ESP32 schematic, it is missing a 0.1uF capacitor from the EN line to GND. This likely makes the auto reset circuit not work properly.

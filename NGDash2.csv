@@ -1,0 +1,42 @@
+Qty,Value,Device,Package,Parts,Description,AVAILABILITY,DESCRIPTION,HOUSEPART,MF,MP,MPN,OC_FARNELL,OC_NEWARK,PACKAGE,POPULARITY,POPULATE,PRICE,PROD_ID,SUPPLIER,URL,VALUE
+24,0.1uF,C-USC0603,C0603,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, CCN, CCN2","CAPACITOR, American symbol",,,,,,,,,,,,,,,,
+20,WS2812S,WS2812S,WS2812S5050,"LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20",WS2812S,,,,,,,,,,,,,,,,
+8,1k,4R-N0402ARV341,4X0402ARV341,"DNLED, RN12, RNA, RNB1, RNB2, RNI, RNSW, RNU",Array Chip Resistor,,,,,,,unknown,unknown,,0,,,,,,
+6,3.3V,DIODE-ZENER-MM3Z3V3T1G,SOD-323,"D6, D7, DB1M, DB2M, DIM, RDACP",Zener Diode,,,,,,,,,,,,,DIO-11284,,,3.3V
+6,JUMPER-SMT_2_NO_SILK,JUMPER-SMT_2_NO_SILK,SMT-JUMPER_2_NO_SILK,"BMS1G, BMS1L5, BMS2G, BMS2L5, IMDL5, IMDLG",Normally open jumper,,,,,,,,,,,,,,,,
+5,0.1uF,C-USC0603K,C0603K,"15SEG1:C1, 15SEG2:C1, 15SEG3:C1, 15SEG4:C1, 15SEG:C1","CAPACITOR, American symbol",,,,,,,,,,,,,,,,
+5,2.5k,RESISTOR0603-RES,0603-RES,"15SEG1:R1, 15SEG2:R1, 15SEG3:R1, 15SEG4:R1, 15SEG:R1",Resistor,,,,,,,,,,,,,,,,
+5,ACPSA04-41SYKWA,ACPSA04-41SYKWA,ACPSA04-41SYKWA,"15SEG1:AN, 15SEG2:AN, 15SEG3:AN, 15SEG4:AN, 15SEG:AN",,,,,,,,,,,,,,,,,
+5,TLC59281RGER,TLC59281RGER,QFN50P400X400X100-25N,"15SEG1:LD, 15SEG2:LD, 15SEG3:LD, 15SEG4:LD, 15SEG:LD","16-Channel, Constant-Current LED Driver",,,,,,TLC59281RGER,-,72R6575,VQFN-24,,,,,Texas Instruments,,
+4,,PTCFUSE-1206,R1206,"F1, F2, F5O, F12O","PTC fuses, resettable thermistors",,,,,,,,,,,,,,,,
+4,10k,4R-N0402ARV341,4X0402ARV341,"RNP, RNPD, RNPD1, RNU2",Array Chip Resistor,,,,,,,unknown,unknown,,0,,,,,,
+4,10uF,CAP1210,1210,"C3VO, C5VI, C5VI1, C5VI2",Capacitor,,,,,,,,,,,,,,,,
+4,3A/40V/500mV,DIODE-SCHOTTKY-B340A,SMA-DIODE,"D3, D5, D15, D16",Schottky diode,,,,,,,,,,,,,DIO-09886,,,3A/40V/500mV
+3,,LED1206,LED-1206,"BMS1, BMS2, IMD",LED (Generic),,,,,,,,,,,,,,,,
+3,0R-JUMPA,0R-JUMPA,A0R-JMP,"ORB1, ORB2, ORI",SMD 0R 0805 Jumper,,,,,,,,,,3,,,,,,
+3,5.6V,DIODE-ZENER-MMSZ5232BS,SOD-323,"D8, D9, D10",Zener Diode,,,,,,,,,,,,,DIO-12442,,,5.6V
+3,BLUE,LED-BLUE0603,LED-0603,"3.3V, 5V, 12V",Blue SMD LED,,,,,,,,,,,,,DIO-08575,,,BLUE
+2,,BC850-NPN-SOT23-BEC,SOT23-BEC,"T1, T2",NPN Transistror,,,,,,,,,,0,,,,,,
+2,,CONN_01,1X01,"GND1, NDI",Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,,,,,,,,,
+2,AMP-AT04-4P-BM02-DEUTSCH,AMP-AT04-4P-BM02-DEUTSCH,AMP-AT04-4P-BM02,"AUXCON, MAINCON",,,,,,,,,,,,,,,,,
+2,MF-SW-TACT-4.2MM,TACT_4.2MM,TACT4.2MM,"IO0, RST",Library:  MF_Switches,,,YES,,,MF-SW-TACT-4.2MM,,,,,1,,,,https://factory.macrofab.com/part/MF-SW-TACT-4.2MM,MF-SW-TACT-4.2MM
+1,,C-USC0603,C0603,C12V,"CAPACITOR, American symbol",,,,,,,,,,,,,,,,
+1,,CONN_02,1X02,G5,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,,,,,,,,,
+1,,LEDCHIP-LED0603,CHIP-LED0603,LED21,LED,,,,,,,,,,,,,,,,
+1,,PTCFUSE-1812,1812,F12I,"PTC fuses, resettable thermistors",,,,,,,,,,,,,,,,
+1,,TC2030-MCP,TC2030-MCP,J2,TAG-CONNECT ICSP ConnectorManufacturer: Tag-Connect,,,,,,,,,,,,,,,,
+1,0.1uF,CAP0603-CAP,0603-CAP,CN,Capacitor,,,,,,,,,,,,,,,,
+1,105450-0101,105450-0101,MOLEX_105450-0101,USBC,"USB Shielded I/O Receptacle, Type C, Right Angle, Surface Mount, Gold over Nickel",Unavailable, USB Shielded I/O Receptacle, Type C, Right Angle, Surface Mount, Gold over Nickel ,,Molex,1054500101,,,,None,,,None
+1,120,R-US_R0603,R0603,TERM,"RESISTOR, American symbol",,,,,,,,,,,,,,,,
+1,74ABT125PW,74ABT125PW,TSSOP14,LLS,"Quad bus BUFFER, 3-state",,,,,,,,,,1,,,,,,
+1,AMP-AT04-3P-BM02-DEUTSCH,AMP-AT04-3P-BM02-DEUTSCH,AMP-AT04-3P-BM02,LEDCON,,,,,,,,,,,,,,,,,
+1,CJT1117-3.3-SOT223,PMIC-CJT1117-3.3(SOT223),SOT-223,5T3,310030097,,,,,,CJT1117-3.3,,,,,,,,,,CJT1117-3.3-SOT223
+1,CP2102N-A01-GQFN28R,CP2102,MLP28,2102N,Single-Chip USB to UART Bridge,,,,FARNELL,,CP2102-GM,9282130,30K5635,,0,,,,,,
+1,CSTCE16M0VH3L99-R0,CSTCE16M0V53-R0,OSC_CSTCE16M0V53-R0,16MHZCAN,16MHz Ceramic Resonator Built in Capacitor 15pF ±0.3% -20°C ~ 80°C Surface Mount,Good,Ceramic Resonator 16MHz ??0.5% (Tol) ??0.3% (Stability) 15pF 40Ohm 3-Pin CSMD T/R,,Murata,CSTCE16M0V53-R0,,,,None,,,0.30 USD,,,,
+1,ESP32-WROOM-32,ESP32-WROOM-32,ESP32-WROOM32,ESP32,WiFi & Bluetooth/BLE SoM,,,,,,,,,,,,,,,,
+1,LITTELFUSE-POLYZEN-ZEN164V130A24LS,LITTELFUSE-POLYZEN-ZEN164V130A24LS,LITTELFUSE-POLYZEN-ZEN164V130A24LS,12FUZ,,,,,,,,,,,,,,,,,
+1,MCP2515-E/ST,MCP2515TSOP,TSSOP20,M2515,MCP2515 Standalone CAN-Controller,,,,,,,,,,,,,,,,
+1,MCP2551,MCP2551,SO08,M2562,MCP2551 High Speed CAN Transceiver,,,,,,,,,,,,,IC-09907,,,MCP2551
+1,"PESD1CAN,215",PESD1CAN,SOT23,CAN_TVS,CAN bus ESD protection diode,,,,,,,,,,0,,,,,,
+1,TI-TPS22810-Q1,TI-TPS22810-Q1,SOT23-6,TPS,"2A, 2.7-18V, 79mOhm load switch with thermal protection, SOT23-6",,,,,,,,,,,,,,,,
+1,TRACO-TSR-2-2450,TRACO-TSR-2-2450,TRACO-TSR-2-2450,12T5,Traco Linear Regulator Replacement/DC-DC Converter,,,,,,,,,,,,,,,,
